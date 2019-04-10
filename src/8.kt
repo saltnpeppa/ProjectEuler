@@ -1,4 +1,3 @@
-import kotlin.math.abs
 import java.math.*
 
 fun otherThirteenGetter(input: ArrayList<BigInteger>): MutableList<BigInteger> {
