@@ -8,6 +8,10 @@ fun main(args: Array<String>) {
         }
     }
     println(values.sum())
-
+    var a = 1
+    for ( i in 1..10) {
+        a *= i
+        println(a)
+    }
 
 }
