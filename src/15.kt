@@ -1,4 +1,3 @@
-
 fun generatePaths(n: Int): Long
     {
         var paths: ArrayList<Long> = arrayListOf()
